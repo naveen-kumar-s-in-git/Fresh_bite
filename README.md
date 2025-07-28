@@ -22,7 +22,7 @@ It highlights strong **UI/UX design**, modern layout, and smooth **AOS scroll an
 
 ## 🚀 Live Preview
 
-🔗 (https://freshbite-webpage.netlify.app)
+🔗 (https://thefreshbite.netlify.app)
 
 ---
 
