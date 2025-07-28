@@ -44,5 +44,5 @@ This is a **frontend portfolio project** to showcase my skills in **responsive d
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/naveen-kumar-s-in)  
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: (https://linkedin.com/in/naveen-kumar-s-in)  
+- GitHub: [@Naveen Kumar S](https://github.com/naveen-kumar-s-in-git)
